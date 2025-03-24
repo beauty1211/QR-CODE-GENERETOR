@@ -1,7 +1,7 @@
 import qrcode
 
 # Phone number to be encoded in the QR code
-phone_number = "tel:+917645053056"  # Replace with the actual phone number
+phone_number = "tel:+917623456566"  # Replace with the actual phone number
 
 # Create a QR code object
 qr = qrcode.QRCode(
